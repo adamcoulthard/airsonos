@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "babel": "^5.8.21",
+    "babel-polyfill": "^6.8.0",
     "bluebird": "^2.9.34",
     "flags": "~0.1.2",
     "ip": "1.1.0",
